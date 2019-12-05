@@ -4,7 +4,7 @@
                 <table id="menuTable" class="indent">
                     <thead>
                         <tr>
-                            <th colspan="3">Paddy's Cafe Menu</th>
+                            <th colspan="3">Tesco Mini stock</th>
                         </tr>
                         <tr>
                             <th>Select</th>
@@ -13,7 +13,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <xsl:for-each select="/cafemenu/section">
+                        <xsl:for-each select="/tescostock/section">
                             <tr>
                                 <td colspan="3">
                                     <xsl:value-of select="@name" />
