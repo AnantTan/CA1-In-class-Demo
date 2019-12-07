@@ -27,10 +27,6 @@
       <item>Mango pulp</item>
       <price>4.99</price>
     </entree>
-    <entree>
-      <item>Honey</item>
-      <price>5.49</price>
-    </entree>
   </section>
   <section name="Home">
     <entree>
@@ -63,5 +59,9 @@
       <item>Baileys</item>
       <price>16.99</price>
     </entree>
+    <entree>
+      <item>Chivas Regal</item>
+      <price>22.49</price>
+    </entree>
   </section>
-</tescostock>costock>
+</tescostock>
